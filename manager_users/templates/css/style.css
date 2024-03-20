@@ -1,0 +1,19 @@
+/* css*/
+.mg-form{
+    margin-bottom: 10px;
+}
+.btn-primary{
+margin-left: 325px;
+}
+.mg-btn{
+    margin-top: 20px;
+}
+.error{
+    color: red;
+    font-size: 90%;
+    font-style: italic;
+}
+.btn .btn-success .btn-block .mg-btn{
+margin-left: 150px;
+}
+
